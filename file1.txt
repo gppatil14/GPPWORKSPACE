@@ -1,1 +1,1 @@
-Testing diff command on wd and SD
+THIS file is not commited yet.. its just added
